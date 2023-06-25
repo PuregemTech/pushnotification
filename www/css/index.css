@@ -1,0 +1,39 @@
+.about{
+    padding: 15px;
+    color: #4e4e4e;
+}
+.about p {
+    font-size: 1.2rem;
+    font-weight: 100;
+    line-height: 1.5;
+    text-align: justify;
+    margin-bottom: 16px;
+    font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif,
+      "Noto Color Emoji";
+  }
+  .abt-h {
+    margin-bottom: 25px;
+    color: #4e4e4e;
+  }
+  .cv {
+    margin: 0;
+    background-color: #252523;
+    font-family: tahoma;
+    color: #000;
+  }
+
+  h4 {
+    margin-bottom: 0;
+  }
+  .td {
+    font-size: 14px;
+  }
+  .header-margin {
+    margin: 0.8rem 0;
+  }
+@media screen and (max-width: 375px) {
+    .details {
+        font-size: 15px;
+    }
+    
+}

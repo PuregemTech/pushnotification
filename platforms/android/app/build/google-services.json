@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "734063210465",
+    "project_id": "bincomfirebasepro",
+    "storage_bucket": "bincomfirebasepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734063210465:android:6cf682a0f78ef1534eaca0",
+        "android_client_info": {
+          "package_name": "come.session.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734063210465-v9h4vgskd5obpth0o7ggrcjmm7ivu9bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMyYhHfHFBVt-sky1yPvZfvpWNtwuUAYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734063210465-v9h4vgskd5obpth0o7ggrcjmm7ivu9bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
